@@ -1,3 +1,5 @@
 The code maker (computer) will pick 4 of 6 colors in a specific order. You, the code breaker, are to guess the colors
 in the correct order in under 12 guesses. We will help you out by printing how many colors and in what position are correct, 
-a 1 in the position means you were correct, and a 0 means you were incorrect.
+a 1 in the position means you were correct, and a 0 means you were incorrect. 
+
+The colors are represented in letters: Red = R, Blue = B, Purple = P, Yellow = Y, Cyan = C, and Green = G.
